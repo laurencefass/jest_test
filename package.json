@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "test": "jest --watchAll",
+        "test": "jest --verbose --watchAll",
         "fixture": "babel-node --presets es2015 fixture.js"
     },
     "author": "SSG",
