@@ -1,4 +1,2 @@
-This project exists only to test github CI and automated testing.
-
-This copy is the production branch version not visibile on other branches.
+This project exists only to test github CI and automated testing. This copy is the production branch version.
 
